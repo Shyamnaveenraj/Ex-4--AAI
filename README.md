@@ -1,5 +1,5 @@
-<H3>Name: Easwar J </H3>
-<H3>Reg No: 212221230024</H3>
+<H3>Name: M.Shyam Naveen Raj </H3>
+<H3>Reg No: 212221230099</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE: 11/3/24</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
